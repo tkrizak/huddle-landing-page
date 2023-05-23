@@ -337,6 +337,10 @@ i.fa-brands {
     padding-block: 80px;
   }
 
+  .header {
+    background-image: url(./images/bg-hero-desktop.svg);
+  }
+
   .header-navbar img {
     max-width: 150px;
   }
@@ -401,7 +405,7 @@ i.fa-brands {
   }
 
   .footer {
-    padding-top: 200px;
+    padding-top: 180px;
   }
 
   .footer-flex {
